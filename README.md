@@ -79,3 +79,20 @@ If you have finished the introduction to programming course in Python, or feel r
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+## Additional resources
+If you have finished the introduction to programming course in Python, or feel ready to move on, here are some valuable resources to get some more in-depth Python knowledge:
+- [YT-series: Python Tutorials for Absolute Beginners by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) 
+- [YT-series: Data analysis with Pandas in Python](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+- [YT-series: Best practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6) 
+- [Chris Albon tips for ML and data wrangling](https://chrisalbon.com/)
+- [Python tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)`
+=======
+>>>>>>> f35c4e9... Updated README
+=======
+>>>>>>> 5f6e7e9... Updated readme
+=======
+>>>>>>> 491b2de8b3bdc108d65499ec3b6fffd6d9b82f2a
