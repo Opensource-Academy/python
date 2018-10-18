@@ -62,8 +62,8 @@ If you have finished the introduction to programming course in Python, or feel r
 - [YT-series: Data analysis with Pandas in Python](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [YT-series: Best practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6) 
 - [Chris Albon tips for ML and data wrangling](https://chrisalbon.com/)
-- [Python tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)
-
+- [Python tricks 101 blogpost](https://hackernoon.com/python-tricks-101-2836251922e0)
+- [Real Python website](https://realpython.com/), website filled with amazing tutorials, tips & tricks about Python. 
 ```
    Copyright 2018 Opensource Academy
 
