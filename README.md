@@ -58,6 +58,7 @@ According with pep8, use under_score.
 
 ## Additional resources
 If you have finished the introduction to programming course in Python, or feel ready to move on, here are some valuable resources to get some more in-depth Python knowledge:
+- [MIT course: Introduction to Programming and Computer Science using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 - [YT-series: Python Tutorials for Absolute Beginners by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) 
 - [YT-series: Data analysis with Pandas in Python](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [YT-series: Best practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6) 
